@@ -2,8 +2,6 @@
 
 **BCS 404: Introduction to Data Science with Python**
 Accra Technical University — Department of Computer Science
-Academic Year 2025/2026, Second Semester
-Lecturer: Dr. Joseph Dadzie
 
 ## Project Overview
 
@@ -52,8 +50,3 @@ introductory machine-learning model (Logistic Regression) that predicts passenge
 ## Libraries Used
 
 Python 3 · Pandas · NumPy · Matplotlib · Seaborn · Scikit-Learn
-
-## Author
-
-*[Your Name — Index Number]*
-Department of Computer Science, Accra Technical University
